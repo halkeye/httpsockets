@@ -1,0 +1,23 @@
+{
+  "name": "httpsockets",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-generator": "^4.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halkeye/httpsockets.git"
+  },
+  "author": "Gavin Mogan <npm@halkeye.net> (http://www.halkeye.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halkeye/httpsockets/issues"
+  },
+  "homepage": "https://github.com/halkeye/httpsockets"
+}
